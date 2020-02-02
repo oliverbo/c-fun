@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "util.h"
+#include "pointers.h"
 
 int main() {
-	printf("Hello %s!\n", world());
+	test_swap();
 }
