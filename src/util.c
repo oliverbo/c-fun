@@ -1,6 +1,6 @@
 #include "util.h"
 
-char *hello() {
-	return "Hello!";
+char *world() {
+	return "World";
 }
 

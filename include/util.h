@@ -1,6 +1,6 @@
 #ifndef UTIL
 #define UTIL
 
-char *hello();
+char *world();
 
 #endif

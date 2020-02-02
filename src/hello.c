@@ -2,5 +2,5 @@
 #include "util.h"
 
 int main() {
-	printf("%s World!\n", hello());
+	printf("Hello %s!\n", world());
 }
