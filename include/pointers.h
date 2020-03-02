@@ -4,5 +4,6 @@
 
 void test_swap();
 void swap(int *i, int *j);
+void strings();
 
 #endif

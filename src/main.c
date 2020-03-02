@@ -2,5 +2,5 @@
 #include "pointers.h"
 
 int main() {
-	test_swap();
+	strings();
 }

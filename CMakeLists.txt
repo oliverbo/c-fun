@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.9)
-project(hello)
+project(c-fun)
 include_directories(include)
 file(GLOB SOURCES src/*.c)
 add_executable(hello ${SOURCES})

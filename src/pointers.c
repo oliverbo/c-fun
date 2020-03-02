@@ -20,3 +20,12 @@ void test_swap() {
 
     printf("After a=%d, b=%d\n", a, b);
 }
+
+void strings() {
+    char str[] = "Hello Alina!";
+
+    char *c = str;
+    while(*c != '\0') {
+        printf("Character %c\n", *(c++));
+    }
+}
